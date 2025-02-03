@@ -40,6 +40,6 @@
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-ninadbaruah.me-green?style=flat-square)](https://ninadbaruah.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ninadbaruah)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ninad-baruah)
 [![Email](https://img.shields.io/badge/Email-ninadbaruah@gmail.com-red?style=flat-square&logo=gmail)](mailto:ninadbaruah@gmail.com)
 
