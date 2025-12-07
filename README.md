@@ -13,21 +13,21 @@
 
 ## 🚀 Projects
 
-### [AI PDF Chat](https://ninadbaruah.me/projects/chatwithpdf)
+### [AI PDF Chat](https://ninadbaruah.com/projects/chatwithpdf)
 - RAG system with OpenAI embeddings
 - 95% PDF text extraction accuracy
 
-### [Real-Time Chat & Video App](https://ninadbaruah.me/projects/chat-app)
+### [Real-Time Chat & Video App](https://ninadbaruah.com/projects/chat-app)
 - WebSocket & WebRTC powered
 - Secure authentication
 - Responsive design
 
-### [Multiplayer Tic Tac Toe](https://ninadbaruah.me/projects/tic-tac-toe)
+### [Multiplayer Tic Tac Toe](https://ninadbaruah.com/projects/tic-tac-toe)
 - Real-time multiplayer game
 - WebSocket support
 - Elo rating system
 
-### [Video Chat Platform](https://ninadbaruah.me/projects/video-chat)
+### [Video Chat Platform](https://ninadbaruah.com/projects/video-chat)
 - Peer-to-peer communication
 - WebRTC technology
 - Scalable architecture
@@ -39,7 +39,7 @@
 
 ## 🌐 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-ninadbaruah.me-green?style=flat-square)](https://ninadbaruah.me)
+[![Website](https://img.shields.io/badge/Website-ninadbaruah.com-green?style=flat-square)](https://ninadbaruah.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ninad-baruah)
 [![Email](https://img.shields.io/badge/Email-ninadbaruah@gmail.com-red?style=flat-square&logo=gmail)](mailto:ninadbaruah@gmail.com)
 
